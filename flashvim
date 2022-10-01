@@ -1,0 +1,188 @@
+
+
+______________________________________________rev
+_intro _riff 666 t 10 r 3 a 2 l r 15 a n 17 a _ t 10 r 15 a 3 M _octave ~t 1.5 / 13 r 1 a + _plusoctave 3 + l _normamp 7 r _sus t 8 r 3 a 2 L a __ 6 l
+_intro _riff 666 t 10 r 3 a 2 l r 15 a n 15 a _ t 10 r 15 a 3 M _octave ~t 1.5 / 13 r 1 a + _plusoctave 3 + l _normamp 7 r _sus t 8 r 3 a 2 L a __ 6 l
+
+______________________________________________dale
+_riff 666 t 10 r 3 a 2 l r 15 a n _ t 10 r 15 a 1 a _octave 0 + _plusoctave 0 + l _perc ~t 7 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 8 r 3 a 2 L a __ 7 l 
+_inter _riff 666 t 10 r 3 a 2 l r 15 a n _ t 10 r 15 a 1 a _octave t 12 r 1 a + _plusoctave 0 + l _perc ~t 7 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 8 r 3 a 2 L a __ 7 l
+
+_break _riff 666 t 10 r 3 a 2 l r 15 a n _ t 10 r 15 a 1 a _octave t 12 r 1 a + _plusoctave 0 + l _perc ~t 7 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 8 r 3 a t 10 r 72 x 3 M _basesus 0 + L a __ 7 l
+
+______________________________________________pudre
+_riff 666 t 10 r 3 a 2 l r 15 a n _dist t 3 M + _ t 10 r 15 a 1 a _octave t 12 r 1 a + _plusoctave 0 + l _perc ~t 7 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 8 r 3 a t 10 r 72 x 3 M _basesus 2 + L a __ 7 l
+_riff 666 t 10 r 3 a 2 l r 15 a n _dist t ~3926 t 11 r 12 M r 9 M M + _ t 10 r 15 a 1 a _octave t 12 r 1 a + _plusoctave 0 + l _perc ~t 7 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 9 r 3 a t 10 r 72 x 3 M _basesus 2 + L a __ 7 l
+_riff 666 t 10 r 3 a 2 l r 15 a n _dist t 3 M + _ t 10 r 15 a 1 a _octave t 12 r 1 a + _plusoctave 0 + l _perc ~t 7 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t t 10 r 31 a 410 x 7 M 3 + r 3 a _basesus 7246 t 10 r 7 a r 3 a 1 + L a __ 7 l
+
+_break _riff 666 t 10 r 3 a 2 l r 15 a n _dist _ t 10 r 15 a 1 a _octave t 12 r 1 a + _plusoctave 3 + l _perc ~t 7 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t t 10 r 31 a 410 x 7 M 3 + r 3 a _basesus 7246 t 10 r 7 a r 3 a 1 + L a __ 6 l
+
+____________________________________________rev
+_break2 _riff 666 t _ ~24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n  _ 5 r 1 a 7 t 10 r 1 a - l 
+
+____________________________________________riff
+_riff 666 t _ 24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n _ 6 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a 3 L a 7 l 
+_riff 666 t _ ~24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n _ 6 t 12 r 1 a - t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a 3 L a 7 t 9 r 1 a - l
+
+____________________________________________subeee
+_riff 666 t _ ~24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n t 0 r 9 o + _ 6 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a 3 L a 7 l 
+
+____________________________________________glitcCHD
+_break _riff 666 t _ 24386 t 11 r 7 a r 7 a 8 + _ r 3 a 2 l r 15 a n t t 15 r 1 a r t 10 r t 11 r t 12 r x x 25 a o + _ 6 r t 8 r 3 a ~t t 10 r 110 x 55 M 10 M 7 + r 3 a 23543 t 11 r 15 M r 3 a + L a 7 t 9 r 1 a - l 
+
+____________________________________________rev
+
+
+t 0 l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ 3 _ L m 128 a t t 253 M a 1.05 m 24 a 1 l o
+
+t 0 l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ 3 _ L m 128 a t t 124 M o 1.0165 m 32 a 1 l o 
+
+t t 124 M o 1.0165 m 32 a 1 l 
+
+t t 124 M o 1.0165 m 32 a 1 l t 10 r 3 a 0 G m
+
+___________________________________________kick
+t t 124 M o 1.0165 m 32 a 1 l t 10 r 3 a 0 G m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+t t 124 M o 1.001 m 60 a 1 l t 10 r 3 a 0 G m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+t t 124 M o 1.001 m 60 a 1 l 
+
+__________________________________________bajoseca
+t t 253 M o 1 m 128 a t 10 r 3 a 0 G m t 9 r 3 a 3 L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+__________________________________________inter
+t t 253 M o 2 m 128 a t 10 r 3 a 0 G m t 9 r 3 a 3 L m  t ~t 8 r 7 a m 64 a t 10 r 3 a 1 L m o
+
+__________________________________________vuelve
+t t 1 l 253 M o 1.04 m 128 a t 10 r 3 a 0 G m t 9 r 3 a 3 L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+_________________________________________WHAT
+t t 193 M a 1 m 11 a 2 l 
+
+
+t t 1 l 253 M o t 12 r 3 M 1 + m 128 a t 10 r 3 a 0 G m t 9 r 3 a 3 L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+t t 255 M o t 12 r 3 M 1 + t 11 r 3 a .5 m + m t 3 / 10 r 1 a l 128 a t 10 r 3 a 0 G m t 9 r 3 a 3 L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+_______________________________________tr
+t t 1 l 255 M o t 12 r 3 M 1 + t 11 r 3 a .5 m + m t 3 / 10 r 1 a l 128 a t 10 r 3 a 0 G m t 8 r 3 a t 10 r 1 a 1 + L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+t t 255 M o t 12 r 3 M 1 + t 11 r 3 a .5 m + m t 10 r 1 a l 32 a 2 l t 10 r 3 a 0 G m t 8 r 3 a 1 L m  t ~t 7 r 7 a m 64 a 1 l t 10 r 3 a 1 L m o
+
+______________________________________PUDRE
+t t 255 M o t 12 r 3 M 1 + t 11 r 3 a .5 m + m t 3 / 10 r 1 a l 128 a t 10 r 3 a 0 G m t 8 r 3 a t 11 r 5 M L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+_____________________________________brealGlitch
+t 1 l t 1 l 127 M o t 12 r 3 M 1 + t 11 r 3 a .51 m + m t 3 / 10 r 1 a l 128 a t 10 r 3 a 0 G m t 8 r 3 a t 11 r 5 M L m  
+
+____________________________________CLMX
+t t 127 M o t 12 r 3 M 1 + t 11 r 3 a .5 m + m t 3 / 10 r 3 M 1 + l 128 a t 10 r 3 a 0 G m t 8 r 3 a t _ t 13 r 6 M 8 + r _ 6 M L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+t 1 r t 127 M o t 12 r 3 M 1 + t 11 r 3 a .5 m + m ~t 3 / 10 r 3 a l 128 a t 10 r 3 a 0 G m t 8 r 3 a t _ t 13 r 5 M 9 + r _ 6 M 1 + L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+___________________________________pudrebajo
+t t 1 l 257 M o t 12 r 3 M 1 + t 11 r 3 a .4999 m + m ~t 3 / 10 r 1 a l 128 a t 10 r 3 a 0 G m t 8 r 3 a t _ t 13 r 5 M 1 + 10 + r _ 5 M 1 + L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+___________________________________corta
+t t 255 M x t 12 r 3 M 1 + t 11 r 3 a .4999 m + m ~t 3 / 10 r 1 a l 128 a t 10 r 3 a 0 G m t 8 r 3 a _ 2 L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+__________________________________str
+t t 257 M x t 12 r 3 M 1 + t 11 r 3 a .4999 m + m ~t 3 / 10 r 2 a l 128 a t 10 r 3 a 0 G m t 8 r 3 a _ 1 L m  t ~t 7 r 7 a m 128 a t 10 r 3 a 1 L m o
+
+t t 257 M x t 12 r 3 M 1 + t 11 r 3 a .4 m + m ~t 3 / 10 r 2 a l 128 a t 8 r 3 a _ 2 L m  
+
+t t 253 M x t 12 r 3 M 1 + t 11 r 3 a .4 m + m ~t 3 / 10 r 5 a l 128 a t 8 r 3 a _ 1 L m
+
+t t 253 M x t 12 r 3 M 1 + t 11 r 3 a .4 m + m ~t 3 / 10 r 5 a l 128 a t 7 r 7 a _ 1 L m
+
+t t 253 M x t 12 r 3 M 1 + t 11 r 3 a .4 m + m ~t 3 / 10 r 5 a l 128 a t 6 r 15 a _ 1 L m
+
+t t 253 M o t 12 r 3 M 1 + t 11 r 3 a .4 m + m ~t 3 / 10 r 5 a l 128 a t 35462 t 11 r 15 M r 3 a 5 + r 15 a _ 1 L m
+
+t t 124 M o t 12 r 3 M 1 + t 11 r 3 a .4 m + m ~t 3 / 10 r 5 M 4 + l 128 a t ~35462 t 11 r 15 M r 3 a 5 + r 15 a _ 21846 t 11 r 7 M r 3 M 1 + L m
+
+0
+___
+
+0 
+
+
+-______________________________________________________________________________________________________
+
+t ~t _ t 10 r 27 x 15 a 10 M _ 5 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ t 10 r 31 a 34 x 5 M 0 + _ L m 128 a
+t ~t _ t 10 r 27 x 15 a 10 M _ 5 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ t 10 r 31 a 34 x 5 M 1 + _ L m 128 a
+t ~t _ t 10 r 27 x 15 a 10 M _ 5 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ t 11 r 31 a 34 x 5 M 1 + _ L m 128 a
+t ~t _ t 10 r 27 x 15 a 10 M _ 4 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ t 11 r 31 a 34 x 5 M 1 + _ L m 128 a
+t ~t _ t 10 r 27 x 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ ~t 10 r 31 a 71 x 3 a 7 + _ r 3 a _ t 11 r 31 a 34 x 5 M 2 + _ L m 128 a
+
+t ~t 12 r 1 a l  ~t _ t 10 r ~27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 t 3 / 12 r 1 a + _ r 3 a _ t 11 r 15 a 3 M 2 + _ L m 128 a
+t ~t 12 r 1 a l  ~t _ ~t 10 r ~27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 t 3 / 12 r 1 a + _ r 3 a _ t 11 r 15 a 3 M 2 + _ L m 128 a
+t ~t _ 2438 t 10 r 7 a r 7 a t 10 r 5 M + _ r 1 a l  ~t _ ~t 10 r ~27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 t 3 / 12 r 1 a + _ r 3 a _ t 11 r 15 a 3 M 2 + _ L m 128 a
+t ~t _ ~2438 t 11 r 7 a r 7 a t 10 r 5 M + _ r 1 a l  ~t _ ~t 10 r ~27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 7 t 2.5 / 11 r 3 M + _ r 3 a _ t 11 r 15 a 5 M 2 + _ L m 128 a
+t t 1 r 5 M + _ 23275 t 10 r 15 a r 3 M _ l ~t _ t 10 r 27 x 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ ~t 11 r 31 a 71 x 3 a 7 + _ r 3 a _ t 11 r 31 a 34 x 5 M 1 + _ L m 128 a
+t t 1 r _ t 10 r 13 M 9 M _ M + _ 23275 t 10 r 15 a r 3 M _ l ~t _ t 10 r 27 x 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ ~t 11 r 31 a 71 x 3 M 8 + _ r 3 a _ t 12 r 31 a 34 x 5 M 1 + _ L m 128 a
+t t 1 r _ t 10 r 13 M 9 M _ M + _ 23275 t 10 r 15 a r 3 M _ l ~t _ t 10 r 27 x 15 a 10 M _ 3 _ + _ r 3 a t 10 r _ t 13 r 3 M 1 + _ a m l t _ ~t 11 r 31 a 71 x 3 M 8 + _ r 3 a _ t 12 r 31 a 34 x 5 M 2 + _ L m 128 a
+t t 1 r _ t 10 r 13 M 9 M _ M + _ 23275 t 10 r 15 a r 3 M _ ~t 3 / 10 r 3 a + _ l ~t _ t 10 r 27 x 15 a 10 M _ 3 _ + _ r 3 a t 10 r _ t 13 r 3 M 1 + _ a m l t _ ~t 11 r 31 a 71 x 3 M 8 + _ r 3 a _ t 12 r 31 a 34 x 5 M 2 + _ L m 128 a
+t _ 2364 t 11 r 7 a r 3 a _ r t 1 r _ t 10 r 13 M 9 M _ M + _ 23275 t 10 r 15 a r 3 M _ ~t 3 / 10 r 3 a + _ l ~t _ t 10 r 27 x 15 a 10 M _ 3 _ + _ r 3 a t 10 r _ t 13 r 3 M 1 + _ a m l t _ ~t 11 r 15 a 71 x 3 M 8 + _ r 3 a _ t 12 r 31 a 34 x 5 M 2 + _ L m 128 a
+
+__prepara?
+t 0 l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ 3 _ L m 128 a
+
+
+______________________________________________________________________________________________________
+
+__________666 t 10 r t 11 r t 12 r o x 3 a 2 l r 15 a n ~t _ ~2438 t 11 r 7 a r 7 a t 10 r 5 M + _ r 1 a l t _ 8 t 11 r 3 M + _ r 3 a _ t 11 r 15 a 5 M 1 + _ L m 128 a
+
+666 t 10 r t 11 r t 12 r o x 3 a 2 l r 15 a n 1 l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 3 M 1 + _ L m 128 a
+666 t 10 r t 11 r t 12 r o x 3 a 2 l r 15 a n t 2.5 / 10 r 3 a t 10 r 3 a 1 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 3 M 1 + _ L m 128 a
+666 t _ 34239 t 11 r 15 a l 7 M 7 + _ r t 11 r t 12 r o x 3 a 2 l r 15 a n t 2.5 / 10 r 3 a t 10 r 3 a 1 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 3 M 1 + _ L m 128 a
+
+666 t _ 34239 t 11 r 15 a l 7 M 7 + _ r t 11 r t 12 r o x 3 a 2 l r 15 a n t 2.5 / 10 r 3 a t 10 r 3 a 0 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 3 M 2 + _ L m 128 a t ~t 8 r 3 a m t 10 r 3 a 1 L m o
+666 t _ 34239 t 11 r 15 a l 7 M 7 + _ r t 11 r t 12 r o x 3 a 2 l r 15 a n t 2.5 / 10 r 3 M t 10 r 3 a 0 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 5 M 1 + _ L m 128 a t ~t 8 r 3 a m t 10 r 3 a 1 L m o
+
+666 t _ 34239 t 11 r 15 a l 7 M 7 + _ r t 11 r t 12 r o x 3 a 2 l r 15 a n t 1 r 3 M + t 2.5 / 10 r 3 M t 10 r 3 a 0 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 5 M 1 + _ L m 128 a t ~t 8 r 3 a m t 10 r 3 a 1 L m o
+666 t _ 34239 t 11 r 15 a l 7 M 7 + _ r t 11 r t 12 r o x 3 a 2 l r 15 a n t 1 r 3 M + t 2.5 / 10 r 3 M t 10 r 3 a 0 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 3 M 1 + _ L m 128 a t ~t 8 r 3 a m t 10 r 3 a 1 L m o
+666 t _ 34239 t 11 r 15 a l 7 M 7 + _ r t 11 r t 12 r o x 3 a 2 l r 15 a n t 1 r 3 M + t 2.5 / 10 r 3 M t 10 r 3 a 0 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 11 r 15 a 3 M 1 + _ L m 128 a
+666 t _ 34239 t 11 r 15 a l 7 M 7 + _ r t 11 r t 12 r o x 3 a 2 l r 15 a n t 1 r 3 M + t 2.5 / 10 r 3 M t 10 r 3 a 0 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ t 10 r 1 a 1 + _ L m 128 a
+______________666 t _ t 11 r t 12 r o 3 a 2 l r 15 a n t 1 r 3 M + t 2.5 / 10 r 3 M t 10 r 3 a 0 G m l ~t _ 11 _ r 1 a l t _ 8 _ r 3 a _ ~t 10 r 3 a 1 + _ L m 128 a
+0
+
+
+
+ ________mm
+_________riff 666 t 10 r 3 a 2 l r 15 a n t 1 r 127 M o _dist _ t 10 r 15 a 1 a _octave t 12 r 1 a + _plusoctave 234 t 12 r 7 a r 3 a ~1 t 10 r 3 a r 1 a m + l _perc ~t 8 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 8 r 3 a 3 L a __ 7 l
+__________________inter _riff 666 t _ 24386 t 11 r 15 a r 7 a 6 + _ r 3 a 2 l r 15 a n t 7 o _dist _ t 10 r 15 a 1 a _plusoctave ~234 t 11 r 7 a r 1 a 1 + ~1 t 10 r 3 a r 1 a m + l _perc ~t 8 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 8 r 3 a _ ~t 10 r 3 a 1 + L a __ 7 l
+
+__________________breakglitch _riff 666 t _ ~24386 t 11 r 15 a r 7 a 7 + _ r 3 a 2 l r 15 a n _dist t t 10 r 66 x 7 M M + _ t 10 r 15 a 1 a _plusoctave ~234 t 11 r 7 a r 1 a 1 + ~1 t 10 r 3 a r 1 a m + l _perc ~t ~41375 t 11 r 15 a r 12 M _ r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 50748 t 11 r 9 M r 5 M 5 + _ r 3 a _ ~t 10 r 1.75 m 3 a 1 + L a __ 7 l
+
+
+_ _riff 666 t _ ~24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n _ 5 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a 3 L a 7 t 9 r 1 a - l
+
+ 
+
+____riff 666 t _ 24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n  _ 6 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a 3 L a 7 l
+__ _riff 666 t _ 24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n  _ 6 t 8 r 3 a t 10 r 3 35 a a 1 L m + r t 8 r 3 a 3 L a 7 l   
+
+____break _riff 666 t _ 24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n t 87 a _ 6 t 8 r 3 a t 10 r 3 35 a a 1 L m + r t 8 r 3 a 3 L a 7 l   
+
+
+____riff 666 t _ ~24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n t 1 r 9 o + _ 6 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a 3 L a 7 l
+
+ 
+_baja _riff 666 t _ ~24386 t 11 r 15 a r 7 a 8 + _ r 3 a 2 l r 15 a n t 1 r 9 o + _ 6 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a ~t 10 r 3 a 1 + L a 7 l 
+
+_____mm _cortaoque _riff 666 t _ 24386 t 11 r 7 a r 7 a 8 + _ r 3 a 2 l r 15 a n t 1 r 9 o + _ 6 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a ~t t 10 r 110 x 55 M 10 M 7 + r 3 a 1 + L a 7 l 
+____riff 666 t _ 24386 t 11 r 7 a r 7 a 8 + _ r 3 a 2 l r 15 a n t m t t 15 r 1 a r t 10 r t 11 r t 12 r x x 15 a o + _ 6 t 8 r 3 a t 10 r 3 a 1 L m + r t 8 r 3 a ~t t 10 r 110 x 55 M 10 M 7 + r 3 a 2 + L a 7 l 
+
+_________break2 _riff 666 t _ 24386 t 11 r 7 a r 7 a 8 + _ r 3 a 2 l r 15 a n t t 15 r 1 a r t 10 r t 11 r t 12 r x x 25 a o + _ 6 r t 8 r 3 a ~t t 10 r 110 x 55 M 10 M 7 + r 3 a ~23543 t 11 r 15 M r 3 a + L a 7 l
+
+_riff 666 t _ 24386 t 11 r 15 a r 7 a 6 + _ r 3 a 2 l r 15 a n _dist _ t 10 r 15 a 1 a _plusoctave ~234 t 12 r 7 a r 3 M 1 + ~1 t 10 r 3 a r 1 a m + l _perc ~t 8 r 3 a _ 17 t 10 r 7 a r 1 a m 1 + m _normamp 7 r _sus t 8 r 3 a _ 3 L a __ 7 l
+
+ ________________t 1 l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ 3 _ L m 128 a
+
+______________t 1 l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ t 10 r 15 a 5 M 1 + _ L m 128 a
+t ~t 9 r 1 a l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 _ r 3 a _ t 10 r 15 a 5 M 1 + _ L m 128 a
+t ~t 9 r 1 a l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 9 _ r 3 a _ t 10 r 15 a 5 M 1 + _ L m 128 a
+t ~t 9 r 1 a l  ~t _ t 10 r 27 ^ 15 a 10 M _ 3 _ + _ r 3 a t 10 r 1 a m l t _ 8 t 3 / 12 r 1 a + _ r 3 a _ t 10 r 15 a 3 M 2 + _ L m 128 a
+
