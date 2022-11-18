@@ -4,6 +4,10 @@ function SyntaxColor()
     syn match Conditional / L \| G /
 endfunction
 
+function Sendraw()
+	silent exe "!bash raw.sh '" . getline('.') . "' | pdsend 9999" | redraw!
+endfunction
+
 function Sendline()
 	silent exe '!bash pf2pd.sh ' . getline('.') . ' | pdsend 9999' | redraw!
 endfunction
@@ -13,5 +17,6 @@ function Sendbpm()
 endfunction
 
 map <F5> <esc> :call Sendline() <enter>
+map <F3> <esc> :call Sendraw() <enter>
 map <F9> <esc> :call Sendbpm() <enter>
 call SyntaxColor()

@@ -1,0 +1,7 @@
+#puredata -nogui basicPatch.pd &
+#screen -X create
+#screen -X split
+#screen -X focus next
+#vim
+#vim flashvim -c "source script.vim"
+
